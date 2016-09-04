@@ -36,24 +36,24 @@ input {
 }
 
 ::-webkit-input-placeholder {
-    color: red;
+    color: ##FF6A6A;
     text-align: center;
 }
 
 :-moz-placeholder {
     /* Firefox 18- */
-    color: red;
+    color: #FF6A6A;
     text-align: center;
 }
 
 ::-moz-placeholder {
     /* Firefox 19+ */
-    color: red;
+    color: #FF6A6A;
     text-align: center;
 }
 
 :-ms-input-placeholder {
-    color: red;
+    color: #FF6A6A;
     text-align: center;
 }
 
